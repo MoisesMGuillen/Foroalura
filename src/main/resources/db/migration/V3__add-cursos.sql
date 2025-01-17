@@ -1,0 +1,1 @@
+INSERT INTO cursos(id,nombre,categoria) VALUES (1,'HTTP en la web','Programacion');
