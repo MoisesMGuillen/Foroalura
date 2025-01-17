@@ -148,3 +148,5 @@ La API utiliza autenticación mediante JWT. Cada solicitud a endpoints protegido
 ```
 Authorization: Bearer <token>
 ```
+# Limitaciones
+- El enfoque del challenge está enfocado en solo los tópicos, con la posibilidad de que a futuro se agregue la implementación para comentar en un tópico.
